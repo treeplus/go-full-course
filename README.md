@@ -14,6 +14,8 @@ https://gitlab.com/nanuchi/go-full-course-youtube
   - Compiles into single binary (machine code)
   - Consistent across different OS
 - go packages is a collectin of source files 
+- Go is statically typed language
+- Only have the "for loop" 
 
 
 ## Command 
